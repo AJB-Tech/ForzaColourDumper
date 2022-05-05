@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ForzaColourDumper": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\ForzaHorizon5\\media\\Cars\""
+    }
+  }
+}
